@@ -31,7 +31,7 @@ This is an app that uses API calls to IBM's AI model to send back information in
 1. ```git clone https://github.com/hokocodes/Emotion-Detector-AI.git```
 2. ```cd Emotion-Detector-AI```
 3. ```python -m venv venv```
-4. ```source venv/bin/activate  # On Windows, use: venv\Scripts\activate```
+4. ```source venv/bin/activate  # On Windows, use: .venv\Scripts\activate```
 
 
 ## Run app
